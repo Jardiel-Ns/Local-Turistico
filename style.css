@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: #f5f4f0;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+    padding-top: 20px; padding-bottom: 20px;
+}
+
+main {
+    padding: 30px 80px;
+}
+
+section {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.reds {
+    color: red;
+    font-weight: bold;
+}
+
+h1 {
+    padding-top: 10px; padding-bottom: 10px;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+/* adicionar o restantes dos h2, h3 e paragrafos que devem ter a cor, espaçamento e direção trocados!*/
+
+.subtittle {
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    padding-top: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 80px;
+}
